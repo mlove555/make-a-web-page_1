@@ -1,0 +1,58 @@
+body {
+  font-family: verdana;
+  background-color: #A3FFFF;
+  padding: 10px 15px;
+}
+
+h1 {
+  Background-color: #6699FF;
+  color: #660099;
+  text-align: center;
+  border-radius: 20px;
+  padding: 35px;
+}
+
+h2 {
+  background-color: #6699FF;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  padding: 15px;
+}
+
+h3 {
+  background-color: #338080;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  padding: 15px;
+}
+
+.comments {
+  background-color: #c299d6;
+  opacity: 0.9;
+  color: #660099;
+  margin: 5px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.image {
+  width: 85%;
+  border-style: groove;
+  border-width: 5px;
+  border-color: #338080;
+  padding: 25px;
+}
+
+.lessonbackground {
+  background-color: #e0ffff;
+  padding: 5px 5px;
+  border-radius: 15px;
+}
+
+.TableofContents {
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  padding: 20px;
+}
